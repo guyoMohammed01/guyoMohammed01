@@ -1,6 +1,6 @@
 # Guyo Mohamed
 
-**M&E and Data Science Enthusiast** ·
+**M&E and Data Science Enthusiast**
 
 I turn programme data into decisions. My work covers designing surveys, collecting field data, and building the SQL queries, dashboards and analysis behind evidence-based reporting. I'm now deepening my skills in data analytics.
 
